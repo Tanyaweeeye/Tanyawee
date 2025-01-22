@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "458764293047",
+    "firebase_url": "https://even-fribate-default-rtdb.firebaseio.com",
+    "project_id": "even-fribate",
+    "storage_bucket": "even-fribate.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458764293047:android:1f4db633bf7da953cc4e32",
+        "android_client_info": {
+          "package_name": "com.example.onlinedb_eye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMdqw5-ZAp9YLMqnK0Svr0ES-nIwrM-_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
